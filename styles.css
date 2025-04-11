@@ -1,0 +1,55 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: blue;
+    margin-top: 16px;
+}
+
+h2{
+    background-color: lightblue;
+}
+
+p {
+    background-color: coral;
+    padding: 16px;
+}
+
+img {
+    border: 8px solid rgb(238, 231, 130);
+    margin: auto;
+    display: block;
+}
+
+ul {
+    background-color: red;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+ol {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: green;
+}
+
+a {
+    color: black;
+}
+
+.recipes {
+    background-color: brown;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.home {
+    display: block;
+    background-color: slateblue;
+    padding: 16px;
+    text-align: center;
+}
